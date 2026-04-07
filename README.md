@@ -14,7 +14,7 @@
 </div>
 <br/>
 <div align="center">
-  <a href="https://www.linkedin.com/in/md-nahidul-islam-nahid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/md-nahidul-islam-nahid/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.facebook.com/your-profile-link"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/></a>
   <a href="https://wa.me/01834489785"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/></a>
   <a href="mailto:md.nahidofficial.cse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
