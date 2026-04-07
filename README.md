@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md. +Nahid....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md.+%20Nahid....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -15,11 +15,8 @@
 <br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/md-nahidul-islam-nahid/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
- 
- <a href="https://www.facebook.com/your-profile-link"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/></a>
-
- <a href="https://wa.me/01834489785"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/></a>
-
+  <a href="https://www.facebook.com/your-profile-link"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" alt="Facebook Badge"/></a>
+  <a href="https://wa.me/01834489785"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/></a>
   <a href="mailto:md.nahidofficial.cse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 <hr/>
@@ -48,12 +45,10 @@
   <code><img title="Tailwind CSS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Next.js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
-
   <code><img title="Node.js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
   <code><img title="Express.js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
   <code><img title="MongoDB" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
   <code><img title="Firebase" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
-
   <code><img title="Vite" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
