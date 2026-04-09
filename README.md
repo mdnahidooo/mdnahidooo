@@ -3,9 +3,13 @@
 <img align=”right” alt=”Coding” width=”400” src="./md_nahid.jpg"/>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md.+%20Nahid....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <h1 align="center">💫 Hi 👋, I'm Md. Nahidul Islam Nahid</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Arial+Code&weight=600&size=24&pause=1200&color=4493F8&center=true&vCenter=true&width=800&lines=+B.Sc.+in+Computer+Science+%26+Engineering;Frontend+%26+Backend+Web+Development+Enthusiast;MERN+Stack+Learner;Passionate+About+Building+Modern+Web+Applications;From+Bangladesh!" alt="Typing SVG" />
+</p>
+
+---
 </h1>
 
 
@@ -73,5 +77,45 @@ const mdNahid = {
   challenge: "Junior Web Development with Programming Hero; dedicated to a 6-8 hour daily learning flow."
 }
 ```
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="160em" src="https://streak-stats.demolab.com?user=mdnahidooo&theme=radical&cache_seconds=1800"/>
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnahidooo&theme=react-dark"/>
+</p>
+
+---
+
+## 📊 Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnahidooo&theme=radical"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📧 Business Inquiry
+
+📩 **Email:** md.nahidofficial.cse@gmail.com
 
 
+---
