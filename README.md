@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <strong>Junior Front-End Developer | React.js, JavaScript, Tailwind CSS | Currently Learning to Build Responsive Web Apps with Firebase & MongoDB | Focused on Modern UI/UX & Leveraging AI for Efficient Coding. </strong>
+  <strong>Full-Stack Developer | Next.js, React.js, JavaScript, Tailwind CSS | Currently Learning to Build Responsive Web Apps with MongoDB | Focused on Modern UI/UX & Leveraging AI for Efficient Coding. </strong>
 </div>
 <br/>
 <div align="center">
@@ -34,7 +34,7 @@
 
 ### Current Growth & Daily Hustle:
 
-- 💻 &nbsp; **Junior Web Developer** focused on mastering the stack with <strong>PH-Programming Hero.</strong>
+- 💻 &nbsp; **Full-Stack Web Developer** focused on mastering the stack with <strong>PH-Programming Hero.</strong>
 - ⚡ &nbsp; Dedicated to a <strong>6-8 hour daily flow</strong> to maintain a consistent learning momentum.
 
 <hr/>
@@ -66,7 +66,7 @@
 const mdNahid = {
   pronouns: "he/him",
   code: ["HTML", "CSS", "Tailwind", "JavaScript"],
-  tools: ["React", "Next.js", "Node.js", "Express.js", "MongoDB", "Firebase"],
+  tools: ["Next.js", "React", "Node.js", "Express.js", "MongoDB", "Firebase"],
   interests: ["AI", "Modern Web Architecture"],
   techCommunities: {
     student: "Daffodil International University",
@@ -74,7 +74,7 @@ const mdNahid = {
     languages: ["Bangla", "English"],
     focus: "Web Development"
   },
-  challenge: "Junior Web Development with Programming Hero; dedicated to a 6-8 hour daily learning flow."
+  challenge: "Full-Stack Web Development with Programming Hero; dedicated to a 6-8 hour daily learning flow."
 }
 ```
 ---
