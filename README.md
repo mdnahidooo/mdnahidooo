@@ -3,7 +3,7 @@
 <img align=”right” alt=”Coding” width=”400” src="./md_nahid.jpg"/>
 
 <h1 align="center">
-  <h1 align="center">💫 Hi 👋, I'm Md. Nahidul Islam Nahid</h1>
+  <h1 align="center"> Hi, I'm Md. Nahidul Islam Nahid</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&weight=600&size=24&pause=1200&color=4493F8&center=true&vCenter=true&width=800&lines=+B.Sc.+in+Computer+Science+%26+Engineering;Frontend+%26+Backend+Web+Development+Enthusiast;MERN+Stack+Learner;Passionate+About+Building+Modern+Web+Applications;From+Bangladesh!" alt="Typing SVG" />
